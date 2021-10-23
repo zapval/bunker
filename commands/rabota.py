@@ -2,18 +2,18 @@ import command_system
 import keyb
 import random
 
-def hello():
-    message = 'Твоя профессия --' + rabota1()
+def rabota():
+    message = 'Твоя профессия -- ' + rabota1()
     attachment = ''
     keyboard = ''
 
 
     return message, attachment, keyboard
 
-hello_command = command_system.Command()
+rabota_command = command_system.Command()
 
-hello_command.keys = ['бункер работа', 'бункер профессия', 'бункер профессия']
-hello_command.process = hello
+rabota_command.keys = ['бункер работа', 'бункер профессия', 'бункер профессия']
+rabota_command.process = rabota
 
 
 def rabota1():
