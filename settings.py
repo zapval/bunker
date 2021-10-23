@@ -1,3 +1,0 @@
-token = "0421951555eb8b3ae1cf323657ebf025d9886064857bd9e411df8aa5050df7fd5f67837bed3f614dbd200"
-confirmation_token = "96b84eea"
-access_token = '0ee10fa86d2da1ec10a9dcc7eed41427c7be57e4d08f66e504da662daf68b89af5ce07bb213d6d6e81928'
